@@ -95,10 +95,44 @@ logo = """
 \033[1;96m(~)\033[1;97m WhatsApp no: 03082503426
 
 OK
-\033[1;97m-𝔻𝔼𝕄𝔸ℕ𝔻 𝔹𝕐---𝕊𝔸ℕ𝔸 𝕂ℍ𝔸ℕ--𝔸ℍ𝕋𝔼𝕊ℍ𝔸𝕄 𝕂ℍ𝔸ℕ---ℝ𝔸ℕ𝔸 𝔹𝕀𝕃𝔸𝕃---𝕊𝔸𝕀𝕄 ℝ𝔸𝕁ℙ𝕆𝕆𝕋--𝔼𝕊ℍ𝔸𝕃 𝔽𝔸𝕋𝕀𝕄𝔸---------------------------------
+\033[1;97m-Demand By---Sana_Khan--Ahtesham_Khan---Rana_Bilal---Saim_Rajpoot--Rabia_Asif---------------------------------
 
 """
+CorrectUsername = "Rana"
 
+CorrectPassword = "Nadeem"
+
+ 
+
+loop = 'true'
+
+while (loop == 'true'):
+
+    username = raw_input("\033[1;96m[☆] \x1b[0;31mUSERNAME TOOLS INI \x1b[1;96m>>>> ")
+
+    if (username == CorrectUsername):
+
+    	password = raw_input("\033[1;96m[☆] \x1b[0;31mPASSWORD TOOLS INI \x1b[1;96m>>>> ")        if (password == CorrectPassword):
+
+            print "Logged in successfully as " + username
+
+            loop = 'false'
+
+        else:
+
+            print "Waiting"
+
+            os.system('xdg-open  https://www.facebook.com/muhammad.nadeem.5214')
+
+    else:
+
+        print "Waiting !"
+
+        os.system('xdg-open https://www.facebook.com/muhammad.nadeem.5214')
+
+ 
+
+def login():
 
 
 def main():
@@ -137,7 +171,7 @@ def main_select():
 
     if IKB =="2":
 
-        os.system("xdg-open https://www.facebook.com/Rajput.Edit'X")
+        os.system("xdg-open https://www.facebook.com/muhammad.nadeem.5214")
 
 	main()
 
@@ -570,7 +604,7 @@ def menu_select():
 
 		    if 'www.facebook.com' in d['error_msg']:
 
-		        print("𝐑𝐚𝐧𝐚 𝐂𝐩⍟] "+uid+" | "+pass1)
+		        print("[𝐑𝐚𝐧𝐚 𝐂𝐩⍟] "+uid+" | "+pass1)
 
 		        cp=open("ok.txt","a")
 
