@@ -94,44 +94,44 @@ logo = """
 \033[1;96m(~)\033[1;97m Fb     : https://www.facebook.com/Rana.Edit'X
 \033[1;96m(~)\033[1;97m WhatsApp no: 03082503426
 
-OK
+Branded Rajput
 \033[1;97m-Demand By---Sana_Khan--Ahtesham_Khan---Rana_Bilal---Saim_Rajpoot--Rabia_Asif---------------------------------
 
 """
-CorrectUsername = "Rana"
+ Loading 10%
 
-CorrectPassword = "Nadeem"
+Loading 20%
+
+ Loading. 30%
+
+
+
+
+
+    
+
+   
+
+    	
+
+            
+
+            
+
+        
+
+            
+
+          
+
+   
+
+        
+
+
 
  
-
-loop = 'true'
-
-while (loop == 'true'):
-
-    username = raw_input("\033[1;96m[☆] \x1b[0;31mUSERNAME TOOLS INI \x1b[1;96m>>>> ")
-
-    if (username == CorrectUsername):
-
-    	password = raw_input("\033[1;96m[☆] \x1b[0;31mPASSWORD TOOLS INI \x1b[1;96m>>>> ")        if (password == CorrectPassword):
-
-            print "Logged in successfully as " + username
-
-            loop = 'false'
-
-        else:
-
-            print "Waiting"
-
-            os.system('xdg-open  https://www.facebook.com/muhammad.nadeem.5214')
-
-    else:
-
-        print "Waiting !"
-
-        os.system('xdg-open https://www.facebook.com/muhammad.nadeem.5214')
-
- 
-
+Loading. 100%
 def login():
 
 
