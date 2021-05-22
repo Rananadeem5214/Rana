@@ -98,11 +98,11 @@ Branded Rajput
 \033[1;97m-Demand By---Sana_Khan--Ahtesham_Khan---Rana_Bilal---Saim_Rajpoot--Rabia_Asif---------------------------------
 
 """
- Loading 10%
+ 
 
-Loading 20%
 
- Loading. 30%
+
+
 
 
 
@@ -131,7 +131,7 @@ Loading 20%
 
 
  
-Loading. 100%
+
 def login():
 
 
