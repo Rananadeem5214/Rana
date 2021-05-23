@@ -155,7 +155,7 @@ Branded Rajput
 
 
 
-def main():
+def ma
 
     os.system("clear")
 
